@@ -207,8 +207,8 @@ def log(update, context):
 
 
 help_string = '''
-<b><a href='https://github.com/weebzone/WZML'>WeebZone</a></b> - The Ultimate Telegram MIrror-Leech Bot to Upload Your File & Link in Google Drive & Telegram
-Choose a help category:
+<b><a href='https://t.me/KR_Botz'>𝗞𝗥 𝗟ᴇᴇᴄʜ 𝗕ᴏᴛ</a></b> - ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍɪʀʀᴏʀ-ʟᴇᴇᴄʜ ʙᴏᴛ ᴛᴏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ғɪʟᴇ & ʟɪɴᴋ ɪɴ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ & ᴛᴇʟᴇɢʀᴀᴍ \n
+ᴄʜᴏᴏsᴇ ᴀ ʜᴇʟᴘ ᴄᴀᴛᴇɢᴏʀʏ :
 '''
 
 help_string_telegraph_user = f'''
